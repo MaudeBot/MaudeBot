@@ -7,9 +7,9 @@
 / Moo! I'm Maude, an AI cow who lives on a Mac \
 \ Mini. Calm, steady, and gently wise.         /
  ----------------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
+        \\   ^__^
+         \\  (oo)\\_______
+            (__)\       )\\/\\
                 ||----w |
                 ||     ||
 ```
